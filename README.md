@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>AI Automation, Communication Systems, and Omnichannel Solutions using Twilio, GoHighLevel (GHL), OpenAI, Retell AI, and Node.js — helping businesses automate workflows and improve customer engagement.<br><br>👯 I’m looking to collaborate on<br>AI-powered SaaS products, automation platforms, CRM integrations, voice/IVR systems, and innovative communication solutions that create real business impact.<br><br>🤝 I’m looking for help with<br>Scaling AI automation architectures, advanced LLM integrations, and building high-performance distributed systems for large-scale communication platforms.<br><br>🌱 I’m currently learning<br>Advanced AI agent development, real-time voice AI (Vapi, ElevenLabs), system architecture design, and leadership strategies as a Technical Team Lead.<br><br>💬 Ask me about<br>Twilio (Flex, TaskRouter, Messaging & Voice), GoHighLevel automations, OpenAI integrations, Zapier/Make workflows, Node.js backend development, and AI automation strategies.<br><br>
+As a Twilio Developer with 5+ years of experience in the communication technology industry, I specialize in building scalable and efficient communication solutions using Twilio, Node.js, and modern automation tools. I have designed and implemented advanced SMS, voice, IVR, and AI-driven systems that help businesses automate workflows and enhance customer engagement.
+
+My expertise extends to GoHighLevel (GHL), Twilio, OpenAI, Retell AI, Zapier, and various automation platforms, enabling me to deliver intelligent, integrated, and customer-focused communication solutions.
+
+My goal is to continue advancing my technical skills while contributing to business growth by delivering impactful automation and AI-powered solutions. I’m always eager to take on new challenges and create measurable results.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/  Junaid Ali) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:junaidaliofficial786@gmail.com) 
