@@ -1,9 +1,11 @@
 # 💫 About Me:
-As a Twilio Developer with 5+ years of experience in the communication technology industry, I specialize in building scalable and efficient communication solutions using Twilio, Node.js, and modern automation tools. I have designed and implemented advanced SMS, voice, IVR, and AI-driven systems that help businesses automate workflows and enhance customer engagement.
+As a Team Lead and Communication Systems Engineer with over 5 years of experience, I build scalable SMS, voice, IVR, and AI-powered automation platforms.
 
-My expertise extends to GoHighLevel (GHL), Twilio, OpenAI, Retell AI, Zapier, and various automation platforms, enabling me to deliver intelligent, integrated, and customer-focused communication solutions.
+My work focuses on architecting reliable backend systems using Twilio, Node.js, and Python, along with designing intelligent voice agents powered by OpenAI, Retell AI, Vapi, and ElevenLabs. I also develop advanced automation workflows and CRM integrations using GoHighLevel, Zapier, Make, and n8n.
 
-My goal is to continue advancing my technical skills while contributing to business growth by delivering impactful automation and AI-powered solutions. I’m always eager to take on new challenges and create measurable results.
+With hands-on experience in messaging compliance, webhook-based architectures, API integrations, and scalable communication infrastructure, I aim to create efficient, high-performance systems that deliver measurable business impact.
+
+Currently exploring deeper innovations in AI voice systems, conversational automation, and distributed communication architecture.
 
 ## 🌐 Socials:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:junaidaliofficial786@gmail.com) 
