@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a Team Lead and Communication Systems Engineer with over 5 years of experience, I build scalable SMS, voice, IVR, and AI-powered automation platforms.
+As a Communication Systems Engineer with over 5 years of experience, I build scalable SMS, voice, IVR, and AI-powered automation platforms.
 
 My work focuses on architecting reliable backend systems using Twilio, Node.js, and Python, along with designing intelligent voice agents powered by OpenAI, Retell AI, Vapi, and ElevenLabs. I also develop advanced automation workflows and CRM integrations using GoHighLevel, Zapier, Make, and n8n.
 
@@ -8,7 +8,7 @@ With hands-on experience in messaging compliance, webhook-based architectures, A
 Currently exploring deeper innovations in AI voice systems, conversational automation, and distributed communication architecture.
 
 ## 🌐 Socials:
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:junaidaliofficial786@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jtech.wrk@gmail.com) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
